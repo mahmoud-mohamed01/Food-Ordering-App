@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# React Food Order App
+food app where user can order from the listed meals and the order is then stored in json file in the backend.
+the App has 2 global states managed using useReducer ,useState, ContextApi in the store folder. 
+view the app using this link: https://mahmoudfoodorderapp.onrender.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technologies used
+ ReactJS , NodeJS, express,
+
 
 ## Available Scripts
 
